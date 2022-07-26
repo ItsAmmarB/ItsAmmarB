@@ -14,6 +14,8 @@ I work with JavaScript mostly, and a bit of lua on the side 🧂
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsAmmarB&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 
+<!--
+
 <table>
   <tbody>
     <tr valign="top">
@@ -24,3 +26,6 @@ I work with JavaScript mostly, and a bit of lua on the side 🧂
     </tr>
   </tbody>
 </table>
+
+
+-->
