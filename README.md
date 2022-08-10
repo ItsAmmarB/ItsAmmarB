@@ -6,11 +6,11 @@ I work with JavaScript mostly, and a bit of lua on the side 🧂
 - Currently working on [DiscordFramework](https://github.com/ItsAmmarB/DiscordFramework)
 - Maintaining [DeathScript](https://github.com/ItsAmmarB/DeathScript) & [StanceModifier](https://github.com/ItsAmmarB/StanceModifier)
 
-<a href="https://github.com/FilonxTN">
+<a href="https://github.com/ItsAmmarB">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAmmarB&theme=dark&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/FilonxTN">
+<a href="https://github.com/ItsAmmarB">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsAmmarB&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 
